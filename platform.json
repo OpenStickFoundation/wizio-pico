@@ -33,7 +33,7 @@
   "packages": {
     "framework-wizio-pico": {
         "type": "framework",
-        "version": "https://github.com/Wiz-IO/framework-wizio-pico.git#dbbbddaf54003e881f50d97a49d61b454aa5696d"
+        "version": "https://github.com/Wiz-IO/framework-wizio-pico.git#9fd8b5abae37924cdd48737f4406df0ab79ce183"
     },
     "toolchain-gccarmnoneeabi": {
         "owner": "platformio",
